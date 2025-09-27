@@ -13,3 +13,5 @@ CMakeUserPresets.json
 build/
 *.swp
 .cache/
+/*.asm
+/*.o
