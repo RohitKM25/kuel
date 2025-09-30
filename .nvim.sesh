@@ -6,3 +6,10 @@ src/match_tree.cpp
 src/lexer_enum_conv.cpp
 test.asm
 .gitignore
+include/kuel/parser.hpp
+src/parser.cpp
+include/kuel/code_generator.hpp
+src/code_generator.cpp
+CMakeLists.txt
+src/CMakeLists.txt
+include/kuel/kuel.hpp
